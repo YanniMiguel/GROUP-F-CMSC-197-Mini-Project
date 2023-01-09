@@ -1,0 +1,638 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.9.22)  9 JAN 2023 14:24
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"./GROUP F - Mini Project Final.tex"
+(GROUP F - Mini Project Final.tex
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-07-04> (llncs.cls
+Document Class: llncs 2018/03/10 v2.20 
+ LaTeX document class for Lecture Notes in Computer Science
+(C:\Users\airco\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(C:\Users\airco\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\airco\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
+Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
+\c@tracingmulticols=\count193
+\mult@box=\box51
+\multicol@leftmargin=\dimen139
+\c@unbalance=\count194
+\c@collectmore=\count195
+\doublecol@number=\count196
+\multicoltolerance=\count197
+\multicolpretolerance=\count198
+\full@width=\dimen140
+\page@free=\dimen141
+\premulticols=\dimen142
+\postmulticols=\dimen143
+\multicolsep=\skip49
+\multicolbaselineskip=\skip50
+\partial@page=\box52
+\last@line=\box53
+\maxbalancingoverflow=\dimen144
+\mult@rightbox=\box54
+\mult@grightbox=\box55
+\mult@firstbox=\box56
+\mult@gfirstbox=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\c@minrows=\count199
+\c@columnbadness=\count266
+\c@finalcolumnbadness=\count267
+\last@try=\dimen145
+\multicolovershoot=\dimen146
+\multicolundershoot=\dimen147
+\mult@nat@firstbox=\box94
+\colbreak@box=\box95
+\mc@col@check@num=\count268
+)
+(C:\Users\airco\AppData\Local\Programs\MiKTeX\tex/latex/oberdiek\aliascnt.sty
+Package: aliascnt 2018/09/07 v1.5 Alias counters (HO)
+)
+\c@chapter=\count269
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 362.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 363.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 364.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 365.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 366.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 367.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 368.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 369.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 370.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 371.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 372.
+\tocchpnum=\dimen148
+\tocsecnum=\dimen149
+\tocsectotal=\dimen150
+\tocsubsecnum=\dimen151
+\tocsubsectotal=\dimen152
+\tocsubsubsecnum=\dimen153
+\tocsubsubsectotal=\dimen154
+\tocparanum=\dimen155
+\tocparatotal=\dimen156
+\tocsubparanum=\dimen157
+\@tempcntc=\count270
+\fnindent=\dimen158
+\c@@inst=\count271
+\c@@auth=\count272
+\c@auco=\count273
+\instindent=\dimen159
+\authrun=\box96
+\authorrunning=\toks16
+\tocauthor=\toks17
+\titrun=\box97
+\titlerunning=\toks18
+\toctitle=\toks19
+\c@theorem=\count274
+\c@case=\count275
+\c@conjecture=\count276
+\c@corollary=\count277
+\c@definition=\count278
+\c@example=\count279
+\c@exercise=\count280
+\c@lemma=\count281
+\c@note=\count282
+\c@problem=\count283
+\c@property=\count284
+\c@proposition=\count285
+\c@question=\count286
+\c@solution=\count287
+\c@remark=\count288
+\headlineindent=\dimen160
+) (C:\Users\airco\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\airco\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks20
+)
+(C:\Users\airco\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\airco\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\airco\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\airco\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen161
+\Gin@req@width=\dimen162
+)
+(C:\Users\airco\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2022/01/07 v1.5 Sub-captions (AR)
+
+(C:\Users\airco\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2022/03/01 v3.6b Customizing captions (AR)
+
+(C:\Users\airco\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
+\caption@tempdima=\dimen163
+\captionmargin=\dimen164
+\caption@leftmargin=\dimen165
+\caption@rightmargin=\dimen166
+\caption@width=\dimen167
+\caption@indent=\dimen168
+\caption@parindent=\dimen169
+\caption@hangindent=\dimen170
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+Package caption Info: \@makecaption = \long macro:#1#2->\small \vskip \abovecap
+tionskip \sbox \@tempboxa {{\bfseries #1.} #2}\ifdim \wd \@tempboxa >\hsize {\b
+fseries #1.} #2\par \else \global \@minipagefalse \hb@xt@ \hsize {\hfil \box \@
+tempboxa \hfil }\fi \vskip \belowcaptionskip  on input line 1176.
+)
+
+Package caption Warning: Unknown document class (or package),
+(caption)                standard defaults will be used.
+See the caption package documentation for explanation.
+
+\c@caption@flags=\count289
+\c@continuedfloat=\count290
+)
+\c@subfigure=\count291
+\c@subtable=\count292
+) (C:\Users\airco\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+
+(C:\Users\airco\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen171
+\ar@mcellbox=\box98
+\extrarowheight=\dimen172
+\NC@list=\toks21
+\extratabsurround=\skip51
+\backup@length=\skip52
+\ar@cellbox=\box99
+)
+\TX@col@width=\dimen173
+\TX@old@table=\dimen174
+\TX@old@col=\dimen175
+\TX@target=\dimen176
+\TX@delta=\dimen177
+\TX@cols=\count293
+\TX@ftn=\toks22
+)
+(C:\Users\airco\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2022-07-01 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count294
+\l__pdf_internal_box=\box100
+) (GROUP F - Mini Project Final.aux)
+\openout1 = `"GROUP F - Mini Project Final.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+
+(C:\Users\airco\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count295
+\scratchdimen=\dimen178
+\scratchbox=\box101
+\nofMPsegments=\count296
+\nofMParguments=\count297
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count298
+\MPscratchDim=\dimen179
+\MPnumerator=\count299
+\makeMPintoPDFobject=\count300
+\everyMPtoPDFconversion=\toks24
+)
+(C:\Users\airco\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\airco\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 44.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 44.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 44.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 44.
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
+
+ []
+
+[1
+
+{C:/Users/airco/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 64--66
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
+
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 91--92
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
+
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 138--139
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--141
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--143
+
+ []
+
+
+Overfull \hbox (33.95926pt too wide) detected at line 146
+\OML/cmm/m/it/10 Residual Sum of Squares  \OT1/cmr/m/n/10 + \OML/cmm/m/it/10 ^^
+U \OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Sum of absolute value of magnitude of coeff
+icients\OT1/cmr/m/n/10 )
+ []
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--167
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--169
+
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 170--171
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--173
+
+ []
+
+[6]
+<FIGURES/lin_train1.png, id=34, 393.47pt x 279.0425pt>
+File: FIGURES/lin_train1.png Graphic file (type png)
+<use FIGURES/lin_train1.png>
+Package pdftex.def Info: FIGURES/lin_train1.png  used on input line 207.
+(pdftex.def)             Requested size: 138.84993pt x 98.4668pt.
+<FIGURES/lin_train2.png, id=36, 393.47pt x 262.9825pt>
+File: FIGURES/lin_train2.png Graphic file (type png)
+<use FIGURES/lin_train2.png>
+Package pdftex.def Info: FIGURES/lin_train2.png  used on input line 212.
+(pdftex.def)             Requested size: 138.84993pt x 92.79965pt.
+<FIGURES/lin_test1.png, id=37, 383.4325pt x 279.0425pt>
+File: FIGURES/lin_test1.png Graphic file (type png)
+<use FIGURES/lin_test1.png>
+Package pdftex.def Info: FIGURES/lin_test1.png  used on input line 223.
+(pdftex.def)             Requested size: 138.84993pt x 101.04706pt.
+<FIGURES/lin_test2.png, id=38, 383.4325pt x 262.9825pt>
+File: FIGURES/lin_test2.png Graphic file (type png)
+<use FIGURES/lin_test2.png>
+Package pdftex.def Info: FIGURES/lin_test2.png  used on input line 228.
+(pdftex.def)             Requested size: 138.84993pt x 95.2314pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
+
+ []
+
+[7 <./FIGURES/lin_train1.png> <./FIGURES/lin_train2.png> <./FIGURES/lin_test1.p
+ng> <./FIGURES/lin_test2.png>]
+<FIGURES/lass_train1.png, id=47, 393.47pt x 279.0425pt>
+File: FIGURES/lass_train1.png Graphic file (type png)
+<use FIGURES/lass_train1.png>
+Package pdftex.def Info: FIGURES/lass_train1.png  used on input line 243.
+(pdftex.def)             Requested size: 138.84993pt x 98.4668pt.
+<FIGURES/lass_train2.png, id=48, 393.47pt x 262.9825pt>
+File: FIGURES/lass_train2.png Graphic file (type png)
+<use FIGURES/lass_train2.png>
+Package pdftex.def Info: FIGURES/lass_train2.png  used on input line 248.
+(pdftex.def)             Requested size: 138.84993pt x 92.79965pt.
+<FIGURES/lass_test1.png, id=49, 383.4325pt x 279.0425pt>
+File: FIGURES/lass_test1.png Graphic file (type png)
+<use FIGURES/lass_test1.png>
+Package pdftex.def Info: FIGURES/lass_test1.png  used on input line 259.
+(pdftex.def)             Requested size: 138.84993pt x 101.04706pt.
+<FIGURES/lass_test2.png, id=50, 383.4325pt x 262.9825pt>
+File: FIGURES/lass_test2.png Graphic file (type png)
+<use FIGURES/lass_test2.png>
+Package pdftex.def Info: FIGURES/lass_test2.png  used on input line 264.
+(pdftex.def)             Requested size: 138.84993pt x 95.2314pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 270--271
+
+ []
+
+[8 <./FIGURES/lass_train1.png> <./FIGURES/lass_train2.png> <./FIGURES/lass_test
+1.png> <./FIGURES/lass_test2.png>]
+<FIGURES/xgb_train1.png, id=58, 393.47pt x 279.0425pt>
+File: FIGURES/xgb_train1.png Graphic file (type png)
+<use FIGURES/xgb_train1.png>
+Package pdftex.def Info: FIGURES/xgb_train1.png  used on input line 279.
+(pdftex.def)             Requested size: 138.84993pt x 98.4668pt.
+<FIGURES/xgb_train2.png, id=59, 393.47pt x 262.9825pt>
+File: FIGURES/xgb_train2.png Graphic file (type png)
+<use FIGURES/xgb_train2.png>
+Package pdftex.def Info: FIGURES/xgb_train2.png  used on input line 284.
+(pdftex.def)             Requested size: 138.84993pt x 92.79965pt.
+<FIGURES/xgb_test1.png, id=60, 383.4325pt x 279.0425pt>
+File: FIGURES/xgb_test1.png Graphic file (type png)
+<use FIGURES/xgb_test1.png>
+Package pdftex.def Info: FIGURES/xgb_test1.png  used on input line 295.
+(pdftex.def)             Requested size: 138.84993pt x 101.04706pt.
+<FIGURES/xgb_test2.png, id=61, 369.38pt x 262.9825pt>
+File: FIGURES/xgb_test2.png Graphic file (type png)
+<use FIGURES/xgb_test2.png>
+Package pdftex.def Info: FIGURES/xgb_test2.png  used on input line 300.
+(pdftex.def)             Requested size: 138.84993pt x 98.85493pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 306--307
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--309
+
+ []
+
+[9 <./FIGURES/xgb_train1.png> <./FIGURES/xgb_train2.png> <./FIGURES/xgb_test1.p
+ng> <./FIGURES/xgb_test2.png>]
+<FIGURES/train_r2.png, id=69, 387.4475pt x 264.99pt>
+File: FIGURES/train_r2.png Graphic file (type png)
+<use FIGURES/train_r2.png>
+Package pdftex.def Info: FIGURES/train_r2.png  used on input line 348.
+(pdftex.def)             Requested size: 138.84993pt x 94.96367pt.
+<FIGURES/test_r2.png, id=70, 387.4475pt x 264.99pt>
+File: FIGURES/test_r2.png Graphic file (type png)
+<use FIGURES/test_r2.png>
+Package pdftex.def Info: FIGURES/test_r2.png  used on input line 353.
+(pdftex.def)             Requested size: 138.84993pt x 94.96367pt.
+<FIGURES/train_NRMSE.png, id=71, 393.47pt x 264.99pt>
+File: FIGURES/train_NRMSE.png Graphic file (type png)
+<use FIGURES/train_NRMSE.png>
+Package pdftex.def Info: FIGURES/train_NRMSE.png  used on input line 366.
+(pdftex.def)             Requested size: 138.84993pt x 93.50804pt.
+<FIGURES/test_NRMSE.png, id=72, 393.47pt x 264.99pt>
+File: FIGURES/test_NRMSE.png Graphic file (type png)
+<use FIGURES/test_NRMSE.png>
+Package pdftex.def Info: FIGURES/test_NRMSE.png  used on input line 371.
+(pdftex.def)             Requested size: 138.84993pt x 93.50804pt.
+ [10]
+<FIGURES/train_MAPE.png, id=79, 393.47pt x 264.99pt>
+File: FIGURES/train_MAPE.png Graphic file (type png)
+<use FIGURES/train_MAPE.png>
+Package pdftex.def Info: FIGURES/train_MAPE.png  used on input line 384.
+(pdftex.def)             Requested size: 138.84993pt x 93.50804pt.
+<FIGURES/test_MAPE.png, id=80, 393.47pt x 264.99pt>
+File: FIGURES/test_MAPE.png Graphic file (type png)
+<use FIGURES/test_MAPE.png>
+Package pdftex.def Info: FIGURES/test_MAPE.png  used on input line 389.
+(pdftex.def)             Requested size: 138.84993pt x 93.50804pt.
+
+Overfull \hbox (1.23698pt too wide) in paragraph at lines 395--396
+[]\OT1/cmr/m/n/10 Much akin to the RMSE scores, the Mean Ab-so-lute Per-cent-ag
+e Er-ror (MAPE)
+ []
+
+<FIGURES/feature_select.png, id=81, 462.72874pt x 248.93pt>
+File: FIGURES/feature_select.png Graphic file (type png)
+<use FIGURES/feature_select.png>
+Package pdftex.def Info: FIGURES/feature_select.png  used on input line 399.
+(pdftex.def)             Requested size: 347.12354pt x 186.73882pt.
+[11 <./FIGURES/train_r2.png> <./FIGURES/test_r2.png> <./FIGURES/train_NRMSE.png
+> <./FIGURES/test_NRMSE.png> <./FIGURES/train_MAPE.png> <./FIGURES/test_MAPE.pn
+g>]
+Underfull \hbox (badness 10000) in paragraph at lines 406--407
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 408--409
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 410--411
+
+ []
+
+[12 <./FIGURES/feature_select.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 412--413
+
+ []
+
+
+Underfull \hbox (badness 2150) in paragraph at lines 427--428
+[]\OT1/cmr/m/n/9 Good Seed Ven-tures. (2021, De-cem-ber 2). World-wide Food Con
+-sump-tion
+ []
+
+
+Underfull \hbox (badness 2828) in paragraph at lines 430--431
+[]\OT1/cmr/m/n/9 Gavilan, J. (2015, March 27). More Fil-ipinos eat less { sur-v
+ey. RAP-
+ []
+
+
+Underfull \hbox (badness 1383) in paragraph at lines 430--431
+\OT1/cmr/m/n/9 PLER. https://www.rappler.com/moveph/88070-more-filipinos-eat-le
+ss-national-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 445--446
+[]\OT1/cmr/m/n/9 UNICEF Philip-pines. (2014). Child sur-vival. Unicef.org.
+ []
+
+
+Underfull \hbox (badness 4739) in paragraph at lines 450--451
+[]\OT1/cmr/m/n/9 Global Hunger In-dex. (2022). Philip-pines. Global Hunger In-d
+ex (GHI)
+ []
+
+
+Underfull \hbox (badness 4096) in paragraph at lines 450--451
+\OT1/cmr/m/n/9 - Peer-Reviewed An-nual Pub-li-ca-tion De-signed to Com-pre-hen-
+sively Mea-
+ []
+
+
+Underfull \hbox (badness 3780) in paragraph at lines 450--451
+\OT1/cmr/m/n/9 sure and Track Hunger at the Global, Re-gional, and Coun-try Lev
+-els.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 455--456
+[]\OT1/cmr/m/n/9 Nguyen, T. (2022, July 13). Why the Philip-pines Is So Vul-ner
+-a-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 455--456
+\OT1/cmr/m/n/9 ble to Food In-fla-tion. Carnegie En-dow-ment for In-ter-na-tion
+al Peace.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 455--456
+\OT1/cmr/m/n/9 https://carnegieendowment.org/2022/07/13/why-philippines-is-so-v
+ulnerable-
+ []
+
+
+Underfull \hbox (badness 2529) in paragraph at lines 462--463
+[]\OT1/cmr/m/n/9 Agbachi, C. P. E. (2016). Op-ti-mi-sa-tion of Least Squares Al
+-go-rithm: A
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 466--467
+[]\OT1/cmr/m/n/9 Kumar, D. (2021, Oc-to-ber 31). What is LASSO Re-gres-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 466--467
+\OT1/cmr/m/n/9 sion Def-i-ni-tion, Ex-am-ples and Tech-niques. GreatLearn-ing.
+ []
+
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 476--477
+[]\OT1/cmr/m/n/9 Humanitarian Data Ex-change. (2022, Novem-ber 22). Philip-pine
+s
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 476--477
+\OT1/cmr/m/n/9 - Food Prices - Hu-man-i-tar-ian Data Ex-change. Data.humdata.or
+g.
+ []
+
+[14] (GROUP F - Mini Project Final.aux) ) 
+Here is how much of TeX's memory you used:
+ 3507 strings out of 478338
+ 62615 string characters out of 2836700
+ 368449 words of memory out of 3000000
+ 21919 multiletter control sequences out of 15000+600000
+ 475861 words of font info for 50 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 67i,9n,77p,1055b,405s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\airco\AppData\Local\MiKTeX\
+fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0900.pk><C:/Users/airco/AppData/Local/Pr
+ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/airco/AppData
+/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/airc
+o/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx7.pfb><C:/Us
+ers/airco/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pf
+b><C:/Users/airco/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmex10.pfb><C:/Users/airco/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmmi10.pfb><C:/Users/airco/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmmi7.pfb><C:/Users/airco/AppData/Local/Programs/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmmi9.pfb><C:/Users/airco/AppData/Local/Programs/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmmib10.pfb><C:/Users/airco/AppData/Local/Pro
+grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/airco/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/airco/Ap
+pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/a
+irco/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/
+Users/airco/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10
+.pfb><C:/Users/airco/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
+cm/cmsy7.pfb><C:/Users/airco/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
+msfonts/cm/cmtt9.pfb>
+Output written on "GROUP F - Mini Project Final.pdf" (14 pages, 400245 bytes).
+PDF statistics:
+ 172 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 96 words of extra memory for PDF output out of 10000 (max. 10000000)
+
